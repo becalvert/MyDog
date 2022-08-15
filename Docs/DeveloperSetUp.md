@@ -1,4 +1,4 @@
-# NewsMedia  - Developer Setup
+# MyDog  - Developer Setup
 
 ## Description:
 
