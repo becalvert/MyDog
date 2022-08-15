@@ -18,10 +18,6 @@ This document was created with the help of [Markdown Cheatsheet](https://www.mar
 
 Instructions to get working locally are here [Developer Set-up Instructions](docs/DeveloperSetUp.md)
 
-## Functional and Technical Overview
-
-Details of this can be found here - [Functional and Technical Overview](./docs/FunctionalTechnicalOverview.md)
-
 ## Future Enhancements
 * Seeding of the category DB
 * Screen access
